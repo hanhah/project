@@ -1,0 +1,1 @@
+"use strict";var oDiv=document.querySelector("#ps .psCon div"),oP=document.querySelector("#ps .psCon div p");oDiv.onmouseover=function(o){o=o||window.event,oP.style.display="block"},oDiv.onmouseout=function(o){o=o||window.event,oP.style.display="none"};

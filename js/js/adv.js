@@ -1,0 +1,1 @@
+"use strict";var oBtn=document.querySelector("#adv .advCon .advBtn");oBtn.onclick=function(e){var t=(e=e||window.event).target||e.srcElement;"SPAN"==t.tagName&&t.parentNode.remove()};
